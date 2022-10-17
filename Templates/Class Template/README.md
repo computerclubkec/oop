@@ -1,0 +1,1 @@
+- [x] [q1](q1.cpp): WAP to find MAX value of array with default argument with class template.

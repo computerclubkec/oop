@@ -1,0 +1,2 @@
+- [x] [q12](q12.cpp): WAP to create classes ABC with data member feet and XYZ with data member inch. Add members of class ABC and XYZ using friend function.
+- [x] [q13](q13.cpp): WAP to add distances D1(feet,inch) and D2(feet,inch). Display result by returning values using friend function.

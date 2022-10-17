@@ -1,0 +1,3 @@
+- [x] [q1](q1.cpp): WAP to illustrate the concept of OOP.
+- [x] [q2](q2.cpp): WAP to find the prime number in C++.
+- [x] [q3](q3.cpp): WAP to create class 'time' with data members days, hours, minutes and second. Then add two 'time' object by taking object as argument and also returning object as argument.

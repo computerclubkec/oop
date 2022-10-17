@@ -1,0 +1,4 @@
+- [x] [q1](q1.cpp): WAP to show conversion from Basic to User Defined.
+- [x] [q2](q2.cpp): WAP to show conversion from User Defined to Basic.
+- [x] [q4](q4.cpp): WAP to overload unary operator(++,--).
+- [x] [q13](q13.cpp): WAP to overload insertion and excertion operator.
