@@ -13,8 +13,8 @@ This repository contains code for the OOP problems mentioned in `WAPs.pdf`.
 	3. Solve a question in respective directory.
 	4. add the following to `README.md` file of respective directory:
 	EXAMPLE:
-	`- [x] [q15](q15.cpp): WAP to add two numbers.`
-	`- [x] [q16](q16.cpp): WAP to subtract two numbers.`
+	- [x] [q15](q15.cpp): WAP to add two numbers.
+	- [x] [q16](q16.cpp): WAP to subtract two numbers.
 	5. add your name to `Contributors.md`
 	6. Push and Create a Pull Request
 
