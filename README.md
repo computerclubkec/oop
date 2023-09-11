@@ -21,3 +21,11 @@ This repository contains code for the OOP problems mentioned in `WAPs.pdf`.
 ### NOTE:
  	Do not use any libraries or headers that is not standard. Example: conio.h , windows.h, etc.
 
+
+# Programs
+
+## Introduction to C++ Programs
+
+1. WAP to illustrate the concept of OOP.
+2. WAP to find the prime number in C++.
+3. WAP to create class 'time' with data members days, hours, minutes and second. Then add two 'time' object by taking object as argument and also returning object as argument.
