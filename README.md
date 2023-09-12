@@ -29,3 +29,9 @@ This repository contains code for the OOP problems mentioned in `WAPs.pdf`.
 1. WAP to illustrate the concept of OOP.
 2. WAP to find the prime number in C++.
 3. WAP to create class 'time' with data members days, hours, minutes and second. Then add two 'time' object by taking object as argument and also returning object as argument.
+
+## C++ Language Constructs
+
+1. WAP to add and subtract two numbers.
+2. WAP to add and subtract two numbers using function and display result inside function.
+3. WAP to add and subtract two numbers using function and display result from main.
