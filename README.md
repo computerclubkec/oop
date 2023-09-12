@@ -35,3 +35,5 @@ This repository contains code for the OOP problems mentioned in `WAPs.pdf`.
 1. WAP to add and subtract two numbers.
 2. WAP to add and subtract two numbers using function and display result inside function.
 3. WAP to add and subtract two numbers using function and display result from main.
+4. WAP to show function overloading.
+5. WAP to calculate area of circle(radius), rectangle(l,b), area of triangle(a,b,c) using function overloading.
