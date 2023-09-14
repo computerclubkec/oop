@@ -37,3 +37,6 @@ This repository contains code for the OOP problems mentioned in `WAPs.pdf`.
 3. WAP to add and subtract two numbers using function and display result from main.
 4. WAP to show function overloading.
 5. WAP to calculate area of circle(radius), rectangle(l,b), area of triangle(a,b,c) using function overloading.
+6. WAP to show default argument.
+7. WAP to calculate price of n items. Pass number of items and unit price to a function and return total price. If unity price is not specified use Default price.
+8. WAP to show DMA.
