@@ -40,3 +40,8 @@ This repository contains code for the OOP problems mentioned in `WAPs.pdf`.
 6. WAP to show default argument.
 7. WAP to calculate price of n items. Pass number of items and unit price to a function and return total price. If unity price is not specified use Default price.
 8. WAP to show DMA.
+9. WAP to take n numbers from user and display their average. Also create memory dynamically for array and delete it.
+10. WAP to show the use of inline function.
+11. WAP to show reference variable.
+12. WAP to show passing argument as reference.
+13. WAP to show return by reference.
