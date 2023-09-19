@@ -47,3 +47,5 @@ This repository contains code for the OOP problems mentioned in `WAPs.pdf`.
 13. WAP to show return by reference.
 14. WAP to swap 2 values using function and reference variable. Display result from main.
 15. WAP to show how namespace works.
+16. WAP to create file named "programmerone.cpp" with function display. Also create file named "Programmetwo.cpp" with function named display. Access both display from third program named "result.cpp". Use namespace whenever needed.
+
