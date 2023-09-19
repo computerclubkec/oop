@@ -49,3 +49,23 @@ This repository contains code for the OOP problems mentioned in `WAPs.pdf`.
 15. WAP to show how namespace works.
 16. WAP to create file named "programmerone.cpp" with function display. Also create file named "Programmetwo.cpp" with function named display. Access both display from third program named "result.cpp". Use namespace whenever needed.
 
+## Classes And Objects
+
+1. WAP to access public data from main function.
+2. WAP to access the data from the function outside the class.
+3. WAP to access the data from the function inside the class.
+4. Create a class named "Animal" with data and methods as follows:
+    - Data: name, id_number, cost;
+    - Methods: void setdata(char, int, float) and void showdata()
+    - Create two different objects of type "Animals" and use setdata() to set the data member values and use showdata() to display them.
+5. WAP to create a class student. Ask user to enter name and marks obtained in 5 different subjects. The program should print the name and total marks obtained by students.
+6. WAP to show different type of constructor (default, parameterized and copy) and destructor.
+7. Explain all constructor with and display appropriate message when object goes out of scope.
+8. Create a class named "Rectangle" with two data members-length and breadth and a function to calculate the are which is length x breath.
+    The class has three constructor which are:
+        - having no parameter: values of both length and breadth are assigned zero.
+        - having two numbers as parameters: the two numbers are assigned as length and breadth respectively.
+        - having one number  as parameter: both length and breadth are assigned that number.
+    Now crate objects of "Rectangle" class having none, one and two parameters and print their areas using member function area.
+9. WAP to prnit the name of students by creating a student class. If no name is passed while creating and object of the student clas, then the name should be "unknown" otherwise the name should be equal to the string value passed while creating object of the student class.
+10. WAP to show how friend function works.
