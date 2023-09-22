@@ -69,3 +69,13 @@ This repository contains code for the OOP problems mentioned in `WAPs.pdf`.
     Now crate objects of "Rectangle" class having none, one and two parameters and print their areas using member function area.
 9. WAP to prnit the name of students by creating a student class. If no name is passed while creating and object of the student clas, then the name should be "unknown" otherwise the name should be equal to the string value passed while creating object of the student class.
 10. WAP to show how friend function works.
+11. Expxlain friend class with exampel.
+12. WAP to create classes ABC with data member feet and XYZ with data member inch. Add memebers of class ABC and XYZ using friend function.
+13. WAP to add distances D1(feet, inch) and D2(feet, inch). Display result by returning values using friend function.
+14. WAP to show passing single argument as an object.
+15. WAP to show returnign object by normal way and also with nameless object.
+16. WAP to add two complex numbers using memer function add(). Pass single argument to function, return from function and display result.
+17. WAP to add distances D1(feet, inch) and D2(feet, inch). Dipslay result by returning values with nameless object.
+18. WAP to add distances D1(feet, inch) and D2(feet, inch). Display result inside function.
+19. WAP to swap the numbers by using reference variable.
+20. WAP to show static variable and static function.
