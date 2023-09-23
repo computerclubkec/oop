@@ -79,3 +79,21 @@ This repository contains code for the OOP problems mentioned in `WAPs.pdf`.
 18. WAP to add distances D1(feet, inch) and D2(feet, inch). Display result inside function.
 19. WAP to swap the numbers by using reference variable.
 20. WAP to show static variable and static function.
+21. WAP to show the order of creation and destruction using static data members. There must be static keyword in your program to display the value of static data.
+
+## Operator Overloading
+
+1. WAP to show conversion from Basic to User Defined.
+2. WAP to show conversion from User Defined to Basic.
+3. WAP to show conversion between User Defined to User Defined both destination and source conversion.
+4. WAP to overload unary operator(++,--).
+5. WAP to overload pre-decrement and post-decrement operator.
+6. WAP to overload binary operator + using member function.
+7. WAP to overload binary operator + using friend function.
+8. WAP to add and subtract 2 distances d1 and d2 (feet, inch) using operator overloading + and - using member function.
+9. WAP to add and subtract 2 distances d1 and d2 (feet, inch) using operator overloading + and - using friend function.
+10. WAP to overload >, <, == operator to compare two distances(feet, inch) using the concept of operator overloading using member function.
+11. WAP to overload >, <, == operator to compare two distances(feet, inch) using the concept of operator overloading using friend function.
+12. WAP to overload >, <, == operator to compare two amount using the concept of overloading.
+13. WAP to overload insertion and excertion operator.
+
