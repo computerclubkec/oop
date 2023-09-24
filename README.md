@@ -97,3 +97,15 @@ This repository contains code for the OOP problems mentioned in `WAPs.pdf`.
 12. WAP to overload >, <, == operator to compare two amount using the concept of overloading.
 13. WAP to overload insertion and excertion operator.
 
+## Inheritance
+
+### Single Inheritance:
+
+1. WAP to show single inheritance with default constructor.
+2. WAP to show single inheritance with main function access.
+3. WAP to show single inheritance parameterize constructor.
+4. WAP to show single inheritance parameterized only in child class.
+5. WAP to show single inheritance with same function name of base and derived class.
+6. WAP to show parent function call inside child class.
+7. WAP to show protected data inside base class.
+8. WAP to shw parent function call inside child class having same member function name.
