@@ -109,3 +109,27 @@ This repository contains code for the OOP problems mentioned in `WAPs.pdf`.
 6. WAP to show parent function call inside child class.
 7. WAP to show protected data inside base class.
 8. WAP to shw parent function call inside child class having same member function name.
+
+## Multiple Inheritance:
+
+1. WAP to show multiple inheritance constructor and destructor.
+2. WAP to show multiple inheritance with different function name.
+3. WAP to show the ambiguity in multiple inheritance.
+
+## Multilevel Inheritance:
+
+1. WAP to show multi level inheritance.
+
+## Multipath Inheritance:
+
+1. WAP to show multi path inheritance.
+
+## Important:
+
+1. Create a class called cricketer with member variables to represent name, age, and number of matches played. From this derive two classes Bowler and Batsmen. Bowler class has number of wickets as member variable and Batsmen class has number of runs and centuries as member variables. Use appropriate member functions in all classes to read and display respective data.
+2. Create a class student with data members studen ID and name. Create class internal exam with marks first as data member and external exam with marks second. Create class result by inheriting class internal exam and external exam that will add marks of class internal exam and external exam.
+3. WAP to show order of constructor(default, parameterized) and destructor call in multiple inheritance. Base class one ename and class two have employee id and child class result.
+4. WAP to convert object from class that represent weight of gold in Nepal, tola to object of a class that represent internal gold measurement of weight in gram scale.
+5. WAP with three classes students, test, and result by using multi level inheritance. Assume necessary member and function yourself and program with input information input data and calculate marks total and display result.
+
+
