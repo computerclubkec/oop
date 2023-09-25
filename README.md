@@ -110,21 +110,21 @@ This repository contains code for the OOP problems mentioned in `WAPs.pdf`.
 7. WAP to show protected data inside base class.
 8. WAP to shw parent function call inside child class having same member function name.
 
-## Multiple Inheritance:
+### Multiple Inheritance:
 
 1. WAP to show multiple inheritance constructor and destructor.
 2. WAP to show multiple inheritance with different function name.
 3. WAP to show the ambiguity in multiple inheritance.
 
-## Multilevel Inheritance:
+### Multilevel Inheritance:
 
 1. WAP to show multi level inheritance.
 
-## Multipath Inheritance:
+### Multipath Inheritance:
 
 1. WAP to show multi path inheritance.
 
-## Important:
+### Important:
 
 1. Create a class called cricketer with member variables to represent name, age, and number of matches played. From this derive two classes Bowler and Batsmen. Bowler class has number of wickets as member variable and Batsmen class has number of runs and centuries as member variables. Use appropriate member functions in all classes to read and display respective data.
 2. Create a class student with data members studen ID and name. Create class internal exam with marks first as data member and external exam with marks second. Create class result by inheriting class internal exam and external exam that will add marks of class internal exam and external exam.
@@ -132,4 +132,12 @@ This repository contains code for the OOP problems mentioned in `WAPs.pdf`.
 4. WAP to convert object from class that represent weight of gold in Nepal, tola to object of a class that represent internal gold measurement of weight in gram scale.
 5. WAP with three classes students, test, and result by using multi level inheritance. Assume necessary member and function yourself and program with input information input data and calculate marks total and display result.
 
+## Polymorphism
 
+1. WAP to show virtual function mechanism.
+2. WAP to show pure virtual function mechanism and abstract class.
+3. WAP to show virtual destructor.
+4. WAP to show dynamic cast operator.
+5. WAP to show type id operator.
+6. A bookshop in Kathmandu valley sells books and DVD. Two classes Book and DVD are inherited from the astract base class Media. The Media class has common data members such as title and publication. The class Book has data members such as number_of_pages and that of DVD has data member such as duration. Each class members has member functions such as read data() and showdata(). WAP for modeling the class hierarchy for book shop and process objects of these classes using pointers to the base class.
+7. Design a class that represents paper. Create class book, nespaper, copy derived from class paper. Add necessary member function to make your program meaningful and also show constructor and virtual destructor. Create object Dynamically using pointer to the base class.
