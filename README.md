@@ -141,3 +141,18 @@ This repository contains code for the OOP problems mentioned in `WAPs.pdf`.
 5. WAP to show type id operator.
 6. A bookshop in Kathmandu valley sells books and DVD. Two classes Book and DVD are inherited from the astract base class Media. The Media class has common data members such as title and publication. The class Book has data members such as number_of_pages and that of DVD has data member such as duration. Each class members has member functions such as read data() and showdata(). WAP for modeling the class hierarchy for book shop and process objects of these classes using pointers to the base class.
 7. Design a class that represents paper. Create class book, nespaper, copy derived from class paper. Add necessary member function to make your program meaningful and also show constructor and virtual destructor. Create object Dynamically using pointer to the base class.
+
+## File Handling
+
+1. WAP to open a file using constructor.
+2. WAP to open a file using member function.
+3. WAP to user r/w file using fstream.
+4. WAP using fin and fout.
+5. WAP to show use of manipulators.
+6. WAP to store book database in a file. Design a book class with members ISBN number, name of authro, title, price. The Program should able to store book object to a file, find a book in the database and display according to ISBN number. Also display all records.
+    - getInput()
+    - display()
+    - add_record
+    - show_record
+    - search_record_by_isbn_number & modify also.
+
