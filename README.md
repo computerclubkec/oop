@@ -173,3 +173,16 @@ This repository contains code for the OOP problems mentioned in `WAPs.pdf`.
 5. WAP to demonstrate different functions of vector and reverse() which is algorithm.
 6. WAP to compare 2 values using function template and display largest value. Check your program for char, int and float type data.
 
+## Exception Handling
+
+1. WAP to show simple try catch throw.
+2. WAP to show throwing inside function.
+3. WAP to show multiple catch statements.
+4. WAP to show catching all exceptions.
+5. WAP to show specifying exceptions.
+6. WAP to show rethrowing exception.
+7. WAP to show try catch throw in user define classes type.
+8. WAP to compute square root of a number. THe input value must be tested for validity. If it is negative an exception must be raised.
+9. WAP to read name, roll number and marks that catches multiple exception using exception class if roll number is negatve and marks greater than full marks.
+10. WAP to show how do you throw only specified excepton from a function.
+11. WAP to throw multiple exception. Using exception class and each exception is handled by separate handler.
