@@ -156,3 +156,20 @@ This repository contains code for the OOP problems mentioned in `WAPs.pdf`.
     - show_record
     - search_record_by_isbn_number & modify also.
 
+## Template
+
+### Functioin Template
+
+1. WAP to show more than one template mechanism.
+2. WAP to show function template overloading with functoin.
+3. WAP to show overloading template with template and normal function.
+
+### Class Template
+
+1. WAP to find MAX value of array with default argument with class template.
+2. WAP to show use of multiple template.
+3. WAP to show template and non template argument.
+4. WAP to fnid maximum and minimum value of an array using class template.
+5. WAP to demonstrate different functions of vector and reverse() which is algorithm.
+6. WAP to compare 2 values using function template and display largest value. Check your program for char, int and float type data.
+
