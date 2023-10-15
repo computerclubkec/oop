@@ -3,21 +3,21 @@
 #include <iostream>
 using namespace std;
 
-// Function to swap two numbers using reference parameters
-void swap(int &a, int &b) {
-    int temp = a;
-    a = b;
-    b = temp;
+// Function to modify the value of the argument using reference
+void modifyValue(int &value) {
+    value = 100; // Modifying the value of the parameter directly
 }
 
 int main() {
-    int x = 5, y = 10;
-    cout << "Before swapping: x = " << x << ", y = " << y << endl;
+    int number = 50;
 
-    // Calling the function with arguments passed by reference
-    swap(x, y);
+    cout << "Number before modification: " << number << endl;
 
-    cout << "After swapping: x = " << x << ", y = " << y << endl;
+    // Calling the function and passing the variable by reference
+    modifyValue(number);
+
+    cout << "Number after modification: " << number << endl;
 
     return 0;
 }
+
