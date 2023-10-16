@@ -2,13 +2,13 @@
 
 #include <iostream>
 #include <cmath>
-# define pi 3.14
+# define PI 3.14
 using namespace std;
 
 
 // Function to calculate area of a circle
 float area(float radius) {
-    return pi * radius * radius;
+    return PI * radius * radius;
 }
 
 // Function to calculate area of a rectangle
