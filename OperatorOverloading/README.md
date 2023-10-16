@@ -1,4 +1,13 @@
 - [x] [q1](q1.cpp): WAP to show conversion from Basic to User Defined.
 - [x] [q2](q2.cpp): WAP to show conversion from User Defined to Basic.
+- [ ] [q3](q3.cpp): WAP to show conversion between User Defined to User Defined both destination and source conversion.
 - [x] [q4](q4.cpp): WAP to overload unary operator(++,--).
+- [ ] [q5](q5.cpp): WAP to overload pre-decrement and post-decrement operator.
+- [ ] [q6](q6.cpp): WAP to overload binary operator + using member function.
+- [ ] [q7](q7.cpp): WAP to overload binary operator + using friend function.
+- [ ] [q8](q8.cpp): WAP to add and subtract 2 distances d1 and d2 (feet, inch) using operator overloading + and - using member function.
+- [ ] [q9](q9.cpp): WAP to add and subtract 2 distances d1 and d2 (feet, inch) using operator overloading + and - using friend function.
+- [ ] [q10](q10.cpp): WAP to overload >, <, == operator to compare two distances(feet, inch) using the concept of operator overloading using member function.
+- [ ] [q11](q11.cpp): WAP to overload >, <, == operator to compare two distances(feet, inch) using the concept of operator overloading using friend function.
+- [ ] [q12](q12.cpp): WAP to overload >, <, == operator to compare two amount using the concept of overloading.
 - [x] [q13](q13.cpp): WAP to overload insertion and excertion operator.
