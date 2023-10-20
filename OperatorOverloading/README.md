@@ -1,6 +1,6 @@
 - [x] [q1](q1.cpp): WAP to show conversion from Basic to User Defined.
 - [x] [q2](q2.cpp): WAP to show conversion from User Defined to Basic.
-- [ ] [q3](q3.cpp): WAP to show conversion between User Defined to User Defined both destination and source conversion.
+- [x] [q3](q3.cpp): WAP to show conversion between User Defined to User Defined both destination and source conversion.
 - [x] [q4](q4.cpp): WAP to overload unary operator(++,--).
 - [ ] [q5](q5.cpp): WAP to overload pre-decrement and post-decrement operator.
 - [ ] [q6](q6.cpp): WAP to overload binary operator + using member function.
