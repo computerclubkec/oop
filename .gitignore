@@ -38,3 +38,5 @@ relative/path/to/dir/anotherfile
 
 # Ignore vscode files
 */.vscode/
+
+*.exe
