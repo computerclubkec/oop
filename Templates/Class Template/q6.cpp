@@ -10,16 +10,22 @@ T findMax(T a, T b) {
 }
 
 int main() {
-    // Comparing two char values
-    char char1 = 'a', char2 = 'z';
+    // Taking input for comparing two char values
+    char char1, char2;
+    cout << "Enter two characters: ";
+    cin >> char1 >> char2;
     cout << "Largest char: " << findMax(char1, char2) << endl;
 
-    // Comparing two int values
-    int int1 = 10, int2 = 20;
+    // Taking input for comparing two int values
+    int int1, int2;
+    cout << "Enter two integers: ";
+    cin >> int1 >> int2;
     cout << "Largest int: " << findMax(int1, int2) << endl;
 
-    // Comparing two float values
-    float float1 = 10.5, float2 = 5.5;
+    // Taking input for comparing two float values
+    float float1, float2;
+    cout << "Enter two float values: ";
+    cin >> float1 >> float2;
     cout << "Largest float: " << findMax(float1, float2) << endl;
 
     return 0;

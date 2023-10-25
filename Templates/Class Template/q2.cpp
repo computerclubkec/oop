@@ -1,3 +1,5 @@
+// WAP to show use of multiple template.
+
 #include <iostream>
 using namespace std;
 

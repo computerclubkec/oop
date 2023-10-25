@@ -11,16 +11,16 @@ int main() {
 
     // Display the original vector
     cout << "Original Vector: ";
-    for (const auto &elem : myVector) {
-        cout << elem << " ";
+    for (int i = 0; i < myVector.size(); ++i) {
+        cout << myVector[i] << " ";
     }
     cout << endl;
 
     // Demonstrating different functions of vector
     myVector.push_back(6); // Adding an element to the end of the vector
     cout << "Vector after push_back: ";
-    for (const auto &elem : myVector) {
-        cout << elem << " ";
+    for (int i = 0; i < myVector.size(); ++i) {
+        cout << myVector[i] << " ";
     }
     cout << endl;
 
@@ -29,8 +29,8 @@ int main() {
     // Using the reverse algorithm to reverse the vector
     reverse(myVector.begin(), myVector.end());
     cout << "Reversed Vector: ";
-    for (const auto &elem : myVector) {
-        cout << elem << " ";
+    for (int i = 0; i < myVector.size(); ++i) {
+        cout << myVector[i] << " ";
     }
     cout << endl;
 
