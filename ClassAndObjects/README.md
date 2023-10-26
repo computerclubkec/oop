@@ -1,2 +1,26 @@
+- [ ] [q1](q1.cpp): WAP to access public data from main function.
+- [ ] [q2](q2.cpp): WAP to access the data from the function outside the class.
+- [ ] [q3](q3.cpp): WAP to access the data from the function inside the class.
+- [ ] [q4](q4.cpp): Create a class named "Animal" with data and methods as follows:
+    - Data: name, id_number, cost;
+    - Methods: void setdata(char, int, float) and void showdata()
+    - Create two different objects of type "Animals" and use setdata() to set the data member values and use showdata() to display them.
+- [ ] [q5](q5.cpp): WAP to create a class student. Ask user to enter name and marks obtained in 5 different subjects. The program should print the name and total marks obtained by students.
+- [ ] [q6](q6.cpp): WAP to show different type of constructor (default, parameterized and copy) and destructor.
+- [ ] [q7](q7.cpp): Explain all constructor with and display appropriate message when object goes out of scope.
+- [ ] [q8](q8.cpp): Create a class named "Rectangle" with two data members-length and breadth and a function to calculate the are which is length x breath. The class has three constructor which are: - having no parameter: values of both length and breadth are assigned zero. - having two numbers as parameters: the two numbers are assigned as length and breadth respectively. - having one number as parameter: both length and breadth are assigned that number. Now crate objects of "Rectangle" class having none, one and two parameters and print their areas using member function area.
+- [ ] [q9](q9.cpp): WAP to prnit the name of students by creating a student class. If no name is passed while creating and object of the student clas, then the name should be "unknown" otherwise the name should be equal to the string value passed while creating object of the student class.
+- [ ] [q10](q10.cpp): WAP to show how friend function works.
+- [ ] [q11](q11.cpp): Expxlain friend class with exampel.
 - [x] [q12](q12.cpp): WAP to create classes ABC with data member feet and XYZ with data member inch. Add members of class ABC and XYZ using friend function.
 - [x] [q13](q13.cpp): WAP to add distances D1(feet,inch) and D2(feet,inch). Display result by returning values using friend function.
+- [ ] [q14](q14.cpp): WAP to show passing single argument as an object.
+- [ ] [q15](q15.cpp): WAP to show returnign object by normal way and also with nameless object.
+- [ ] [q16](q16.cpp): WAP to add two complex numbers using memer function add(). Pass single argument to function, return from function and display result.
+- [ ] [q17](q17.cpp): WAP to add distances D1(feet, inch) and D2(feet, inch). Dipslay result by returning values with nameless object.
+- [ ] [q18](q18.cpp): WAP to add distances D1(feet, inch) and D2(feet, inch). Display result inside function.
+- [ ] [q19](q19.cpp): WAP to swap the numbers by using reference variable.
+- [ ] [q20](q20.cpp): WAP to show static variable and static function.
+- [ ] [q21](q21.cpp): WAP to show the order of creation and destruction using static data members. There must be static keyword in your program to display the value of static data.
+
+
