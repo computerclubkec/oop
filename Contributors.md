@@ -1,2 +1,0 @@
-- [Gaurav Giri](https://github.com/gaurovgiri)
-- [Aayush Shrestha](https://github.com/aayush105)
