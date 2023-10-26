@@ -1,22 +1,42 @@
 # Object Oriented Programming Codes:
 
-This repository contains code for the OOP problems mentioned in `WAPs.pdf`.
+This program contains programs for object oriented programming using C++. The questions listed here falls under the syllabus of IOE (Institute Of Engineering).
 
-## For Learners:
-	1. Check `WAPs.pdf`.
-	2. Choose your questions and solve it.
-	3. If stucked, check the solution mentioned in equivalent directories.
+## For Explorers:
+
+1. Begin by searching for your questions within the Programs section, which is further categorized into various Object-Oriented Programming (OOP) topics.
+
+2. Once you've located your question, navigate to the directory named after the specific OOP topic it falls under.
+
+3. Check if the question is marked as "checked" to confirm that a solution is available.
+
+4. If you have any feedback or need assistance, you can provide it through the issues section.
  
 ## For Contributors:
-	1. Fork the Repo
-	2. Create a branch
-	3. Solve a question in respective directory.
-	4. add the following to `README.md` file of respective directory:
-	EXAMPLE:
-	- [x] [q15](q15.cpp): WAP to add two numbers.
-	- [x] [q16](q16.cpp): WAP to subtract two numbers.
-	5. add your name to `Contributors.md`
-	6. Push and Create a Pull Request
+
+🍴 **Fork the Repository**:
+   - Start by forking the repository to create your own copy.
+
+🌿 **Create a Branch**:
+   - Create a new branch where you'll work on your solution.
+
+💡 **Solve a Question**:
+   - In the respective directory, solve the question provided.
+
+📝 **Update `README.md`**:
+   - Add your solution to the `README.md` file of the respective directory. Follow the format below:
+   
+   EXAMPLE:
+   ```
+   - [x] [q15](q15.cpp): Write a program to add two numbers.
+   - [x] [q16](q16.cpp): Write a program to subtract two numbers.
+   ```
+📋 **Add Your Name**:
+   - Include your name in the `Contributors.md` file to be recognized for your contribution.
+
+🚀 **Push and Create a Pull Request**:
+   - Push your changes to your branch and create a Pull Request to submit your solution.
+
 
 ### NOTE:
  	Do not use any libraries or headers that is not standard. Example: conio.h , windows.h, etc.
