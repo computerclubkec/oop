@@ -5,3 +5,8 @@
 - [x] [q4](q4.cpp): WAP using fin and fout.
 - [x] [q5](q5.cpp): WAP to show use of manipulators.
 - [x] [q6](q6.cpp): WAP to store book database in a file. Design a book class with members ISBN number, name of author, title, price. The Program should able to store book object to a file, find a book in the database and display according to ISBN number. Also display all records.
+    - getInput()
+    - display()
+    - add_record
+    - show_record
+    - search_record_by_isbn_number & modify also.

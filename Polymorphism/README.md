@@ -1,2 +1,8 @@
+- [ ] [q1](q1.cpp): WAP to show virtual function mechanism.
+- [ ] [q2](q2.cpp): WAP to show pure virtual function mechanism and abstract class.
+- [ ] [q3](q3.cpp): WAP to show virtual destructor.
+- [ ] [q4](q4.cpp): WAP to show dynamic cast operator.
+- [ ] [q5](q5.cpp): WAP to show type id operator.
+- [ ] [q6](q6.cpp): A bookshop in Kathmandu valley sells books and DVD. Two classes Book and DVD are inherited from the astract base class Media. The Media class has common data members such as title and publication. The class Book has data members such as number_of_pages and that of DVD has data member such as duration. Each class members has member functions such as read data() and showdata(). WAP for modeling the class hierarchy for book shop and process objects of these classes using pointers to the base class.
 - [x] [q7](q7.cpp): Design a class that represents paper. Create class book, newspaper, copy derived from class paper. Add necessary member function to make your program meaningful and also show constructor and virtual destructor. Create object Dynamically using pointer to the base class.
 
