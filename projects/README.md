@@ -39,3 +39,4 @@ Welcome to the projects directory. Here, you'll find a list of [project ideas](#
 ## Existing Projects:
 
 1. **[WhatsThatFigure](https://github.com/gaurovgiri/whatsthatfigure)**: A multiplayer pictionary game using QT framework.
+2. **[ATM](https://github.com/aayush105/ATM)**: This is a simple C++ ATM console application for basic banking operations with file-based data storage.
