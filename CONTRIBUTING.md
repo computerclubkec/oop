@@ -1,6 +1,6 @@
 # Contributing to Crack Code
 
-Thanks for wanting to help with the "oop" collection. Your help makes our project better for students and researchers. Let's work together to build a cool place for everyone who loves coding.
+Thank you for your commitment to supporting Object-Oriented Programming (OOP). Your assistance significantly enhances our projects, making them more beneficial for students and researchers. Let's collaborate to create a platform where students can resolve their queries and access the necessary resources, fostering a supportive and enriching learning environment.
 
 Please take a moment to review the following guidelines to ensure a smooth and collaborative contribution process.
 
