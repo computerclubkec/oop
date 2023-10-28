@@ -2,8 +2,6 @@
 
 #include <iostream>
 
-#define PI 3.14159
-
 using namespace std;
 
 // Abstract class with a pure virtual function
@@ -18,6 +16,7 @@ class Circle : public Shape
 {
 private:
     double radius;
+    const float PI = 3.14159;
 
 public:
     Circle(double r) : radius(r) {}

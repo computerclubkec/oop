@@ -28,9 +28,9 @@ public:
     void readData()
     {
         cout << "Enter book title name: ";
-        cin >> title;
+        cin.getline(title,50);
         cout << "Enter book publication name: ";
-        cin >> publication;
+        cin.getline(publication,50);
         cout << "Enter the no of pages: ";
         cin >> pages;
     }
@@ -45,15 +45,18 @@ public:
 class DVD : public Media
 {
 private:
-    float duration;
+    int duration;
 
 public:
     void readData()
     {
+        cin.ignore(numeric_limits<streamsize>::max(), '\n');
         cout << "Enter DVD Title Name: ";
-        cin >> title;
+        cin.getline(title,50);
         cout << "Enter DVD Publication Name: ";
-        cin >> publication;
+        cin.getline(publication,50);
+        cout << "Enter duration in minutes: ";
+        cin >> duration;
     }
 
     void showData()
@@ -70,10 +73,13 @@ int main()
     m = &b;
     m->readData();
     m->showData();
-    
+    cout << endl;
+
     DVD d;
     m = &d;
     m->readData();
     m->showData();
+    cout << endl;
+    
     return 0;
 }

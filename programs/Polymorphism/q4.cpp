@@ -22,15 +22,6 @@ public:
     }
 };
 
-class Cat : public Animal
-{
-public:
-    void speak() override
-    {
-        cout << "The cat meows." << endl;
-    }
-};
-
 int main()
 {
     Animal *myAnimal = new Dog();
