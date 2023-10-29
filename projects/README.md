@@ -4,35 +4,35 @@ Welcome to the projects directory. Here, you'll find a list of [project ideas](#
 
 ## Projects Ideas:
 
-1. **[Library Management System](https://github.com/search?q=language:C+++"library-management"+in:description,readme)**: Create a library management system that allows users to check out and return books, manage user accounts, and track inventory.
+1. **[Library Management System](https://github.com/search?q=language%3AC%2B%2B+%22library+management+system%22&type=Repositories)**: Create a library management system that allows users to check out and return books, manage user accounts, and track inventory.
 
    - Key features:
      - User authentication and account management
      - Book catalog with search and checkout functionality
      - Transaction history and due date tracking
 
-2. **[Quiz Application](https://github.com/search?q=language:C+++"quiz-app"+in:description,readme)**: Develop an interactive quiz application with multiple-choice questions and scoring.
+2. **[Quiz Application](https://github.com/search?q=language%3AC%2B%2B+%22quiz+application%22&type=Repositories)**: Develop an interactive quiz application with multiple-choice questions and scoring.
 
    - Key features:
      - User registration and login
      - Dynamic quiz creation and management
      - Scoring and leaderboard functionality
 
-3. **[Inventory Management System](https://github.com/search?q=language:C+++"inventory-management-system"+in:description,readme)**: Build an inventory management system for businesses to manage and monitor their stock levels.
+3. **[Inventory Management System](https://github.com/search?q=language%3AC%2B%2B+%22inventory+management+system%22&type=Repositories)**: Build an inventory management system for businesses to manage and monitor their stock levels.
 
    - Key features:
      - Product database with details and pricing
      - Inventory updates, purchases, and sales tracking
      - Alerts for low stock and restocking recommendations
 
-4. **[Task Management Application](https://github.com/search?q=language:C+++"task-managment-application"+in:description,readme)**: Create a task management application that helps users organize their to-do lists and schedules.
+4. **[Task Management Application](https://github.com/search?q=language%3AC%2B%2B+%22task+management+application%22&type=Repositories)**: Create a task management application that helps users organize their to-do lists and schedules.
 
    - Key features:
      - Task creation, editing, and deletion
      - Priority and due date settings
      - Task categorization and sorting options
 
-5. **[Car Rental System](https://github.com/search?q=language:C+++"car-rental-system"+in:description,readme)**: Design a car rental system for a rental company to manage vehicle bookings, customer information, and billing.
+5. **[Car Rental System](https://github.com/search?q=language%3AC%2B%2B+%22car+rental+system%22&type=Repositories)**: Design a car rental system for a rental company to manage vehicle bookings, customer information, and billing.
    - Key features:
      - Vehicle catalog with rental rates and availability
      - Reservation and booking management

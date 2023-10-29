@@ -119,7 +119,7 @@ This program contains programs for object oriented programming using C++. The qu
 
 ## [Inheritance](Inheritance/README.md)
 
-### [Single Inheritance](Inheritance/Single%20Inheritance/README.md):
+### Single Inheritance:
 
 1. WAP to show single inheritance with default constructor.
 2. WAP to show single inheritance with main function access.
@@ -130,21 +130,21 @@ This program contains programs for object oriented programming using C++. The qu
 7. WAP to show protected data inside base class.
 8. WAP to shw parent function call inside child class having same member function name.
 
-### [Multiple Inheritance](Inheritance/Multiple%20Inheritance/README.md):
+### Multiple Inheritance:
 
 1. WAP to show multiple inheritance constructor and destructor.
 2. WAP to show multiple inheritance with different function name.
 3. WAP to show the ambiguity in multiple inheritance.
 
-### [Multilevel Inheritance](Inheritance/Multilevel%20Inheritance/README.md):
+### Multilevel Inheritance:
 
 1. WAP to show multi level inheritance.
 
-### [Multipath Inheritance](Inheritance/Multipath%20Inheritance/README.md):
+### Multipath Inheritance:
 
 1. WAP to show multi path inheritance.
 
-### [Important](Inheritance/Important/README.md):
+### Important:
 
 1. Create a class called cricketer with member variables to represent name, age, and number of matches played. From this derive two classes Bowler and Batsmen. Bowler class has number of wickets as member variable and Batsmen class has number of runs and centuries as member variables. Use appropriate member functions in all classes to read and display respective data.
 2. Create a class student with data members studen ID and name. Create class internal exam with marks first as data member and external exam with marks second. Create class result by inheriting class internal exam and external exam that will add marks of class internal exam and external exam.
@@ -178,13 +178,13 @@ This program contains programs for object oriented programming using C++. The qu
 
 ## [Templates](Templates/README.md)
 
-### [Function Template](Templates/Function%20Template/README.md)
+### Function Template
 
 1. WAP to show more than one template mechanism.
 2. WAP to show function template overloading with functoin.
 3. WAP to show overloading template with template and normal function.
 
-### [Class Template](Templates/Class%20Template/README.md)
+### Class Template
 
 1. WAP to find MAX value of array with default argument with class template.
 2. WAP to show use of multiple template.
