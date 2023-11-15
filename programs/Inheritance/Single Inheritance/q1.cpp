@@ -26,3 +26,11 @@ int main()
     B b;
     return 0;
 }
+
+/*
+Output:
+
+Default constructor of class A
+Default constructor of class B
+
+*/
