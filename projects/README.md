@@ -38,6 +38,15 @@ Welcome to the projects directory. Here, you'll find a list of [project ideas](#
      - Reservation and booking management
      - Billing and invoicing functionality
 
+6. **[Banking System](https://github.com/search?q=language%3AC%2B%2B+%22banking+system%22&type=Repositories)**: Develop a banking system to manage customer accounts, transactions, and services offered by a bank.
+   - Key features:
+     - Customer account management with details like balance, transaction history, and account type
+     - Deposit and withdrawal transaction handling
+     - Fund transfer between accounts
+     - Loan and interest calculation services
+     - Generation of account statements and reports
+     - Secure login and user authentication system for customers
+
 ## Existing Projects:
 
 1. **[WhatsThatFigure](https://github.com/gaurovgiri/whatsthatfigure)**: A multiplayer pictionary game using QT framework.
