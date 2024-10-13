@@ -14,9 +14,9 @@
 - [x] [q11](q11.cpp): Explain friend class with example.
 - [x] [q12](q12.cpp): WAP to create classes ABC with data member feet and XYZ with data member inch. Add members of class ABC and XYZ using friend function.
 - [x] [q13](q13.cpp): WAP to add distances D1(feet,inch) and D2(feet,inch). Display result by returning values using friend function.
-- [ ] [q14](q14.cpp): WAP to show passing single argument as an object.
-- [ ] [q15](q15.cpp): WAP to show returnign object by normal way and also with nameless object.
-- [ ] [q16](q16.cpp): WAP to add two complex numbers using memer function add(). Pass single argument to function, return from function and display result.
+- [x] [q14](q14.cpp): WAP to show passing single argument as an object.
+- [x] [q15](q15.cpp): WAP to show returning object by normal way and also with nameless object.
+- [x] [q16](q16.cpp): WAP to add two complex numbers using member function add(). Pass single argument to function, return from function and display result.
 - [ ] [q17](q17.cpp): WAP to add distances D1(feet, inch) and D2(feet, inch). Dipslay result by returning values with nameless object.
 - [ ] [q18](q18.cpp): WAP to add distances D1(feet, inch) and D2(feet, inch). Display result inside function.
 - [ ] [q19](q19.cpp): WAP to swap the numbers by using reference variable.
