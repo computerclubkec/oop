@@ -8,9 +8,9 @@
 - [x] [q6](./Single%20Inheritance/q6.cpp): WAP to show parent function call inside child class.
 - [x] [q7](./Single%20Inheritance/q7.cpp): WAP to show protected data inside base class.
 - [x] [q8](./Single%20Inheritance/q8.cpp): WAP to show parent function call inside child class having same member function name.
-- [ ] [q9](./Single%20Inheritance/q9.cpp): WAP to show single inheritance with a method in the base class that gets called from the derived class.
-- [ ] [q10](./Single%20Inheritance/q10.cpp): WAP to demonstrate single inheritance where the base class has private members accessed through public member functions in the derived class.
-- [ ] [q11](./Single%20Inheritance/q11.cpp): WAP to show single inheritance with the derived class accessing protected members of the base class.
+- [x] [q9](./Single%20Inheritance/q9.cpp): WAP to show single inheritance with a method in the base class that gets called from the derived class.
+- [x] [q10](./Single%20Inheritance/q10.cpp): WAP to demonstrate single inheritance where the base class has private members accessed through public member functions in the derived class.
+- [x] [q11](./Single%20Inheritance/q11.cpp): WAP to show single inheritance with the derived class accessing protected members of the base class.
 - [ ] [q12](./Single%20Inheritance/q12.cpp): WAP to show single inheritance where both base and derived classes have constructors and destructors.
 - [ ] [q13](./Single%20Inheritance/q13.cpp): WAP to demonstrate single inheritance with method overloading in the derived class.
 - [ ] [q14](./Single%20Inheritance/q14.cpp): WAP to show single inheritance with multiple parameterized constructors in the base and derived class.
