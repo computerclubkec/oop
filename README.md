@@ -15,16 +15,16 @@ This repository serves two main purposes:
 
 ## Syllabus Overview
 A general syllabus of OOP includes the following topics:
-1. [Introduction to Object Oriented Programming](/programs/README.md/)
-2. [Introduction to C++](/programs/README.md/)
-3. [C++ Language Constructs](/programs/README.md/)
-4. [Objects and Classes](/programs/README.md/)
-5. [Operator Overloading](/programs/OperatorOverloading/)
-6. [Inheritance](/programs/README.md/)
-7. [Polymorphism and Dynamic Binding](/programs/README.md/)
-8. [Stream Computation for Console and File Input/Output](/programs/README.md/)
-9. [Templates](/programs/README.md/)
-10. [Exception Handling](/programs/README.md/)
+1. Introduction to Object Oriented Programming
+2. Introduction to C++
+3. C++ Language Constructs
+4. Objects and Classes
+5. Operator Overloading
+6. Inheritance
+7. Polymorphism and Dynamic Binding
+8. Stream Computation for Console and File Input/Output
+9. Templates
+10. Exception Handling
 
 ## Contribution Guidelines
 We welcome contributions to enhance the variety and quality of OOP programs. Please follow the guidelines outlined in CONTRIBUTING.md for smooth collaboration.
