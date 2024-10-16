@@ -9,9 +9,9 @@ This repository serves two main purposes:
 2. The repository is utilized as a dataset for an easy-to-search application designed for engineering and computer science students. By examining the structure and organization of the programs, learners can understand how OOP concepts apply to real-world scenarios.
 
 ## Repository Structure
-- `programs/`: Contains OOP programs, each focusing on specific OOP concepts. Detailed README files explain the purpose and usage of each program.
-- `projects/`: Lists project ideas and existing projects that use C++.
-- `resources/`: Additional learning materials, links to tutorials, articles, and textbooks related to OOP and C++.
+- [Programs](./programs/README.md): Contains OOP programs, each focusing on specific OOP concepts. Detailed README files explain the purpose and usage of each program.
+- [Projects](./projects/README.md): Lists project ideas and existing projects that use C++.
+- [Resources](./resources/README.md): Additional learning materials, links to tutorials, articles, and textbooks related to OOP and C++.
 
 ## Syllabus Overview
 A general syllabus of OOP includes the following topics:
