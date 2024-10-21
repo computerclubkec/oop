@@ -5,45 +5,42 @@ using namespace std;
 class Base
 {
 public:
-    int baseVar;
-
-    // Constructor to initialize baseVar
-    Base(int val) : baseVar(val) {}
-
-    // Function to display baseVar
     void displayBase()
     {
-        cout << "Base class variable: " << baseVar << endl;
+        cout << "This is the Base class." << endl;
     }
 };
 
-// Derived class that inherits from Base class
-class Derived : public Base
+// Intermediate class derived from Base
+class Intermediate : public Base
 {
 public:
-    int derivedVar;
-
-    // Constructor to initialize base class and derived class variables
-    Derived(int baseVal, int derivedVal) : Base(baseVal), derivedVar(derivedVal) {}
-
-    // Function to display derivedVar
-    void displayDerived()
+    void displayIntermediate()
     {
-        cout << "Derived class variable: " << derivedVar << endl;
+        cout << "This is the Intermediate class." << endl;
     }
 };
 
-// Main function to access members of the derived class
+// Derived class derived from Intermediate
+class Derived : public Intermediate
+{
+public:
+    void displayDerived()
+    {
+        cout << "This is the Derived class." << endl;
+    }
+};
+
+// Main function
 int main()
 {
     // Creating an object of the Derived class
-    Derived obj(10, 20);
+    Derived obj;
 
-    // Accessing base class member through derived class object
-    obj.displayBase();
-
-    // Accessing derived class member
-    obj.displayDerived();
+    // Accessing methods from all levels of inheritance
+    obj.displayBase();         // Method from Base class
+    obj.displayIntermediate(); // Method from Intermediate class
+    obj.displayDerived();      // Method from Derived class
 
     return 0;
 }
