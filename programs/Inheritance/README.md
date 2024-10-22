@@ -49,7 +49,7 @@
 - [x] [q4](./Multilevel%20Inheritance/q4.cpp): WAP to show multilevel inheritance where each class contains its own constructor and destructor.
 - [x] [q5](./Multilevel%20Inheritance/q5.cpp): WAP to demonstrate multilevel inheritance with virtual functions.
 - [x] [q6](./Multilevel%20Inheritance/q6.cpp): WAP to show multilevel inheritance where the derived class overrides methods from both intermediate and base classes.
-- [ ] [q7](./Multilevel%20Inheritance/q7.cpp): WAP to demonstrate multilevel inheritance with method overriding and dynamic method dispatch using pointers.
+- [x] [q7](./Multilevel%20Inheritance/q7.cpp): WAP to demonstrate multilevel inheritance with method overriding and dynamic method dispatch using pointers.
 
 ## Important
 
