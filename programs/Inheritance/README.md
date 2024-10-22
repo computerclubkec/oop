@@ -44,8 +44,8 @@
 ## Multilevel Inheritance
 
 - [x] [q1](./Multilevel%20Inheritance/q1.cpp): WAP to show multi level inheritance.
-- [ ] [q2](./Multilevel%20Inheritance/q2.cpp): WAP to show multilevel inheritance with base, intermediate, and derived class.
-- [ ] [q3](./Multilevel%20Inheritance/q3.cpp): WAP to demonstrate multilevel inheritance where each class has its own method.
+- [x] [q2](./Multilevel%20Inheritance/q2.cpp): WAP to show multilevel inheritance with base, intermediate, and derived class.
+- [x] [q3](./Multilevel%20Inheritance/q3.cpp): WAP to demonstrate multilevel inheritance where each class has its own method.
 - [ ] [q4](./Multilevel%20Inheritance/q4.cpp): WAP to show multilevel inheritance where each class contains its own constructor and destructor.
 - [ ] [q5](./Multilevel%20Inheritance/q5.cpp): WAP to demonstrate multilevel inheritance with virtual functions.
 - [ ] [q6](./Multilevel%20Inheritance/q6.cpp): WAP to show multilevel inheritance where the derived class overrides methods from both intermediate and base classes.
