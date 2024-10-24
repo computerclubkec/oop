@@ -11,12 +11,12 @@
 - [x] [q9](./Single%20Inheritance/q9.cpp): WAP to show single inheritance with a method in the base class that gets called from the derived class.
 - [x] [q10](./Single%20Inheritance/q10.cpp): WAP to demonstrate single inheritance where the base class has private members accessed through public member functions in the derived class.
 - [x] [q11](./Single%20Inheritance/q11.cpp): WAP to show single inheritance with the derived class accessing protected members of the base class.
-- [ ] [q12](./Single%20Inheritance/q12.cpp): WAP to show single inheritance where both base and derived classes have constructors and destructors.
-- [ ] [q13](./Single%20Inheritance/q13.cpp): WAP to demonstrate single inheritance with method overloading in the derived class.
-- [ ] [q14](./Single%20Inheritance/q14.cpp): WAP to show single inheritance with multiple parameterized constructors in the base and derived class.
-- [ ] [q15](./Single%20Inheritance/q15.cpp): WAP to show single inheritance with virtual functions.
-- [ ] [q16](./Single%20Inheritance/q16.cpp): WAP to demonstrate single inheritance where the derived class overrides the base class method and accesses the overridden method using a pointer to the base class.
-- [ ] [q17](./Single%20Inheritance/q17.cpp): WAP to show single inheritance where the base class constructor requires an argument passed through the derived class constructor.
+- [x] [q12](./Single%20Inheritance/q12.cpp): WAP to show single inheritance where both base and derived classes have constructors and destructors.
+- [x] [q13](./Single%20Inheritance/q13.cpp): WAP to demonstrate single inheritance with method overloading in the derived class.
+- [x] [q14](./Single%20Inheritance/q14.cpp): WAP to show single inheritance with multiple parameterized constructors in the base and derived class.
+- [x] [q15](./Single%20Inheritance/q15.cpp): WAP to show single inheritance with virtual functions.
+- [x] [q16](./Single%20Inheritance/q16.cpp): WAP to demonstrate single inheritance where the derived class overrides the base class method and accesses the overridden method using a pointer to the base class.
+- [x] [q17](./Single%20Inheritance/q17.cpp): WAP to show single inheritance where the base class constructor requires an argument passed through the derived class constructor.
 
 ## Multiple Inheritance
 
