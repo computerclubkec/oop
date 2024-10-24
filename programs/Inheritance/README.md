@@ -35,11 +35,11 @@
 
 ## Multipath Inheritance
 
-- [ ] [q1](./Multipath%20Inheritance/q1.cpp): WAP to show multi path inheritance.
-- [ ] [q2](./Multipath%20Inheritance/q2.cpp): WAP to show multipath inheritance where a derived class accesses a method from both parent classes.
-- [ ] [q3](./Multipath%20Inheritance/q3.cpp): WAP to demonstrate multipath inheritance where a base class constructor is called twice without virtual inheritance.
-- [ ] [q4](./Multipath%20Inheritance/q4.cpp): WAP to show multipath inheritance where the base class has a common method and demonstrate how virtual inheritance resolves ambiguity.
-- [ ] [q5](./Multipath%20Inheritance/q5.cpp): WAP to demonstrate multipath inheritance with constructors and destructors in both base and derived classes and show how virtual inheritance helps in correct constructor calling order.
+- [x] [q1](./Multipath%20Inheritance/q1.cpp): WAP to show multi path inheritance.
+- [x] [q2](./Multipath%20Inheritance/q2.cpp): WAP to show multipath inheritance where a derived class accesses a method from both parent classes.
+- [x] [q3](./Multipath%20Inheritance/q3.cpp): WAP to demonstrate multipath inheritance where a base class constructor is called twice without virtual inheritance.
+- [x] [q4](./Multipath%20Inheritance/q4.cpp): WAP to show multipath inheritance where the base class has a common method and demonstrate how virtual inheritance resolves ambiguity.
+- [x] [q5](./Multipath%20Inheritance/q5.cpp): WAP to demonstrate multipath inheritance with constructors and destructors in both base and derived classes and show how virtual inheritance helps in correct constructor calling order.
 
 ## Multilevel Inheritance
 
