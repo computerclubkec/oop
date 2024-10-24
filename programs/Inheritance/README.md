@@ -23,15 +23,15 @@
 - [x] [q1](./Multiple%20Inheritance/q1.cpp): WAP to show multiple inheritance constructor and destructor.
 - [x] [q2](./Multiple%20Inheritance/q2.cpp): WAP to show multiple inheritance with different function name.
 - [x] [q3](./Multiple%20Inheritance/q3.cpp): WAP to show the ambiguity in multiple inheritance.
-- [ ] [q4](./Multiple%20Inheritance/q4.cpp): WAP to show multiple inheritance where both base classes provide different methods.
-- [ ] [q5](./Multiple%20Inheritance/q5.cpp): WAP to demonstrate multiple inheritance where the derived class accesses public members of both base classes.
-- [ ] [q6](./Multiple%20Inheritance/q6.cpp): WAP to show multiple inheritance where one base class contains a constructor, and the derived class calls the constructor.
-- [ ] [q7](./Multiple%20Inheritance/q7.cpp): WAP to demonstrate multiple inheritance with two base classes having constructors and destructors.
-- [ ] [q8](./Multiple%20Inheritance/q8.cpp): WAP to show multiple inheritance where one base class contains a method with a default argument.
-- [ ] [q9](./Multiple%20Inheritance/q9.cpp): WAP to demonstrate multiple inheritance where the derived class calls methods from both base classes.
-- [ ] [q10](./Multiple%20Inheritance/q10.cpp): WAP to show multiple inheritance with virtual inheritance to avoid ambiguity.
-- [ ] [q11](./Multiple%20Inheritance/q11.cpp): WAP to demonstrate multiple inheritance where both base classes have the same function name, and the derived class resolves ambiguity.
-- [ ] [q12](./Multiple%20Inheritance/q12.cpp): WAP to show multiple inheritance where the derived class implements polymorphism using function pointers.
+- [x] [q4](./Multiple%20Inheritance/q4.cpp): WAP to show multiple inheritance where both base classes provide different methods.
+- [x] [q5](./Multiple%20Inheritance/q5.cpp): WAP to demonstrate multiple inheritance where the derived class accesses public members of both base classes.
+- [x] [q6](./Multiple%20Inheritance/q6.cpp): WAP to show multiple inheritance where one base class contains a constructor, and the derived class calls the constructor.
+- [x] [q7](./Multiple%20Inheritance/q7.cpp): WAP to demonstrate multiple inheritance with two base classes having constructors and destructors.
+- [x] [q8](./Multiple%20Inheritance/q8.cpp): WAP to show multiple inheritance where one base class contains a method with a default argument.
+- [x] [q9](./Multiple%20Inheritance/q9.cpp): WAP to demonstrate multiple inheritance where the derived class calls methods from both base classes.
+- [x] [q10](./Multiple%20Inheritance/q10.cpp): WAP to show multiple inheritance with virtual inheritance to avoid ambiguity.
+- [x] [q11](./Multiple%20Inheritance/q11.cpp): WAP to demonstrate multiple inheritance where both base classes have the same function name, and the derived class resolves ambiguity.
+- [x] [q12](./Multiple%20Inheritance/q12.cpp): WAP to show multiple inheritance where the derived class implements polymorphism using function pointers.
 
 ## Multipath Inheritance
 
