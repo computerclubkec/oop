@@ -2,9 +2,9 @@
 - [x] [q2](q2.cpp): WAP to access the data from the function outside the class.
 - [x] [q3](q3.cpp): WAP to access the data from the function inside the class.
 - [x] [q4](q4.cpp): Create a class named "Animal" with data and methods as follows:
-    - Data: name, id_number, cost;
-    - Methods: void setdata(char, int, float) and void showdata()
-    - Create two different objects of type "Animals" and use setdata() to set the data member values and use showdata() to display them.
+  - Data: name, id_number, cost;
+  - Methods: void setdata(char, int, float) and void showdata()
+  - Create two different objects of type "Animals" and use setdata() to set the data member values and use showdata() to display them.
 - [x] [q5](q5.cpp): WAP to create a class student. Ask user to enter name and marks obtained in 5 different subjects. The program should print the name and total marks obtained by students.
 - [x] [q6](q6.cpp): WAP to show different type of constructor (default, parameterized and copy) and destructor.
 - [x] [q7](q7.cpp): Explain all constructor with and display appropriate message when object goes out of scope.
@@ -17,10 +17,8 @@
 - [x] [q14](q14.cpp): WAP to show passing single argument as an object.
 - [x] [q15](q15.cpp): WAP to show returning object by normal way and also with nameless object.
 - [x] [q16](q16.cpp): WAP to add two complex numbers using member function add(). Pass single argument to function, return from function and display result.
-- [ ] [q17](q17.cpp): WAP to add distances D1(feet, inch) and D2(feet, inch). Dipslay result by returning values with nameless object.
-- [ ] [q18](q18.cpp): WAP to add distances D1(feet, inch) and D2(feet, inch). Display result inside function.
-- [ ] [q19](q19.cpp): WAP to swap the numbers by using reference variable.
-- [ ] [q20](q20.cpp): WAP to show static variable and static function.
-- [ ] [q21](q21.cpp): WAP to show the order of creation and destruction using static data members. There must be static keyword in your program to display the value of static data.
-
-
+- [x] [q17](q17.cpp): WAP to add distances D1(feet, inch) and D2(feet, inch). Dipslay result by returning values with nameless object.
+- [x] [q18](q18.cpp): WAP to add distances D1(feet, inch) and D2(feet, inch). Display result inside function.
+- [x] [q19](q19.cpp): WAP to swap the numbers by using reference variable.
+- [x] [q20](q20.cpp): WAP to show static variable and static function.
+- [x] [q21](q21.cpp): WAP to show the order of creation and destruction using static data members. There must be static keyword in your program to display the value of static data.
