@@ -44,6 +44,45 @@ Welcome to the projects directory. Here, you'll find a list of [project ideas](#
      - Handling of transactions like deposits, withdrawals, and fund transfers.
      - Additional services such as loan management, account statements, and secure user authentication.
 
+7. **[Student Management System](https://github.com/search?q=language%3AC%2B%2B+%22student+management+system%22&type=repositories)**: A basic system to manage student records, grades, and attendance.
+   - Key Features:
+     - Add, update, and delete student records.
+     - Store grades for multiple subjects.
+     - Calculate averages and determine pass/fail status.
+
+8. **[Restaurant Billing System](https://github.com/search?q=language%3AC%2B%2B+%22restaurant+billing+system%22&type=repositories)**: A system for handling orders and calculating bills in a restaurant.
+   - Key Features:
+     - Menu display with item names, prices, and categories.
+     - Ability to add items to the order, calculate totals, and apply taxes.
+     - Simple receipt generation for each transaction.
+     - Admin features for updating the menu.
+
+9. **[Grade Calculator](https://github.com/search?q=language%3AC%2B%2B+%22grade+calculator%22&type=repositories)**: A tool to calculate and store grades for students in various courses.
+   - Key Features:
+     - Accept grades for multiple subjects.
+     - Calculate GPA or weighted average based on subject credits.
+     - Provide options to view individual and overall grades.
+
+10. **[Parking Lot Management System](https://github.com/search?q=language%3AC%2B%2B+%22parking+management+system%22&type=repositories)**: Manages parking spot allocations and tracks occupancy.
+    - Key Features:
+      - Track available spots and allocate based on vehicle type.
+      - Manage entry and exit times for vehicles.
+      - Calculate and display parking fees.
+      - Basic reporting of total cars, available spots, and fees collected.
+
+11. **[Employee Payroll System](https://github.com/search?q=language%3AC%2B%2B+%22employee+payroll+system%22&type=repositories)**: A system to calculate and manage payroll for employees.
+    - Key Features:
+      - Add, view, and update employee records.
+      - Calculate pay based on hourly rate and hours worked.
+      - Apply tax deductions and generate pay slips.
+
+12. **[Currency Converter](https://github.com/search?q=language%3AC%2B%2B+%22currency+converter%22&type=repositories)**: A tool that converts currency values based on predefined exchange rates.
+    - Key Features:
+      - Select currencies to convert between.
+      - Store exchange rates in a basic data structure (array or map).
+      - Allow for updating exchange rates as needed.
+      - Calculate and display converted value instantly.
+
 ## Existing Projects:
 
 1. **[WhatsThatFigure](https://github.com/gaurovgiri/whatsthatfigure)**: A multiplayer pictionary game using QT framework.
