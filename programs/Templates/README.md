@@ -6,7 +6,7 @@
 - [x] [q4](./Class%20Template/q4.cpp): WAP to find maximum and minimum value of an array using class template.
 - [x] [q5](./Class%20Template/q5.cpp): WAP to demonstrate different functions of vector and reverse() which is algorithm.
 - [x] [q6](./Class%20Template/q6.cpp): WAP to compare 2 values using function template and display largest value. Check your program for char, int and float type data.
-- [x] [q7](./Class%20Template/q6.cpp): Write a C++ program to implement a generic Stack class using templates.
+- [x] [q7](./Class%20Template/q7.cpp): Write a C++ program to implement a generic Stack class using templates.
 ## Function template
 
 - [x] [q1](./Function%20Template/q1.cpp): WAP to show more than one template mechanism.
