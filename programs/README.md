@@ -192,6 +192,7 @@ This program contains programs for object oriented programming using C++. The qu
 4. WAP to find maximum and minimum value of an array using class template.
 5. WAP to demonstrate different functions of vector and reverse() which is algorithm.
 6. WAP to compare 2 values using function template and display largest value. Check your program for char, int and float type data.
+7. Write a C++ program to implement a generic Stack class using templates.
 
 ## [Exception Handling](ExceptionHandling/README.md)
 
