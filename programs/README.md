@@ -116,6 +116,7 @@ This program contains programs for object oriented programming using C++. The qu
 11. WAP to overload >, <, == operator to compare two distances(feet, inch) using the concept of operator overloading using friend function.
 12. WAP to overload >, <, == operator to compare two amount using the concept of overloading.
 13. WAP to overload insertion and excertion operator.
+14. WAP to overload + and * operators for complex numbers.
 
 ## [Inheritance](Inheritance/README.md)
 
