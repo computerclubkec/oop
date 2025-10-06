@@ -9,8 +9,9 @@ void findPrime(int from, int to)
 {
     for (int num = from; num <= to; num++)
     {
-        int prime = 1;
-        for (int i = 2; i < num/2; i++)
+        if(num<2)continue;  
+        bool prime = 1;
+        for (int i = 2; i <= sqrt(num); i++)
         {
             if (num%i == 0)
             {
