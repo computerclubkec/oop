@@ -83,6 +83,18 @@ Welcome to the projects directory. Here, you'll find a list of [project ideas](#
       - Allow for updating exchange rates as needed.
       - Calculate and display converted value instantly.
 
+13. **[Contact Management System](https://github.com/search?q=language%3AC%2B%2B+%22contact+management+system%22&type=repositories)**:Create a console-based system to store and manage contact information (like phonebook app).
+  -Key Features:
+    -Add, edit, search, and delete contact entries.
+    -Store contacts with fields like name, number, and email using classes.
+    -File handling for saving and loading contacts permanently.
+    
+14. **[Expense Tracker Application](https://github.com/search?q=language%3AC%2B%2B+%22expense+tracker+application%22&type=repositories)**:A personal finance console app to log daily expenses.
+  -Key Features:
+    -Add income and expenses with categories.
+    -Display total balance and generate summary.
+    -Use OOP with file storage and basic reporting (monthly or category wise).
+
 ## Existing Projects:
 
 1. **[WhatsThatFigure](https://github.com/gaurovgiri/whatsthatfigure)**: A multiplayer pictionary game using QT framework.
