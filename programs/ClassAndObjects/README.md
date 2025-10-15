@@ -9,7 +9,7 @@
 - [x] [q6](q6.cpp): WAP to show different type of constructor (default, parameterized and copy) and destructor.
 - [x] [q7](q7.cpp): Explain all constructor with and display appropriate message when object goes out of scope.
 - [x] [q8](q8.cpp): Create a class named "Rectangle" with two data members-length and breadth and a function to calculate the area which is length x breath. The class has three constructor which are: - having no parameter: values of both length and breadth are assigned zero. - having two numbers as parameters: the two numbers are assigned as length and breadth respectively. - having one number as parameter: both length and breadth are assigned that number. Now crate objects of "Rectangle" class having none, one and two parameters and print their areas using member function area.
-- [x] [q9](q9.cpp): WAP to prnit the name of students by creating a student class. If no name is passed while creating and object of the student clas, then the name should be "unknown" otherwise the name should be equal to the string value passed while creating object of the student class.
+- [x] [q9](q9.cpp): WAP to print the name of students by creating a student class. If no name is passed while creating and object of the student class, then the name should be "unknown" otherwise the name should be equal to the string value passed while creating object of the student class.
 - [x] [q10](q10.cpp): WAP to show how friend function works.
 - [x] [q11](q11.cpp): Explain friend class with example.
 - [x] [q12](q12.cpp): WAP to create classes ABC with data member feet and XYZ with data member inch. Add members of class ABC and XYZ using friend function.
