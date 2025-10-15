@@ -35,7 +35,7 @@
 
 ## Multipath Inheritance
 
-- [x] [q1](./Multipath%20Inheritance/q1.cpp): WAP to show multi path inheritance.
+- [x] [q1](./Multipath%20Inheritance/q1.cpp): WAP to show multipath inheritance.
 - [x] [q2](./Multipath%20Inheritance/q2.cpp): WAP to show multipath inheritance where a derived class accesses a method from both parent classes.
 - [x] [q3](./Multipath%20Inheritance/q3.cpp): WAP to demonstrate multipath inheritance where a base class constructor is called twice without virtual inheritance.
 - [x] [q4](./Multipath%20Inheritance/q4.cpp): WAP to show multipath inheritance where the base class has a common method and demonstrate how virtual inheritance resolves ambiguity.
