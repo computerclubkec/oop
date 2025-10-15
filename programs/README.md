@@ -91,15 +91,15 @@ Do not use any libraries or headers that is not standard. Example: conio.h , win
 8. Create a class named "Rectangle" with two data members-length and breadth and a function to calculate the are which is length x breath.
    The class has three constructor which are: - having no parameter: values of both length and breadth are assigned zero. - having two numbers as parameters: the two numbers are assigned as length and breadth respectively. - having one number as parameter: both length and breadth are assigned that number.
    Now crate objects of "Rectangle" class having none, one and two parameters and print their areas using member function area.
-9. WAP to prnit the name of students by creating a student class. If no name is passed while creating and object of the student clas, then the name should be "unknown" otherwise the name should be equal to the string value passed while creating object of the student class.
+9. WAP to print the name of students by creating a student class. If no name is passed while creating and object of the student class, then the name should be "unknown" otherwise the name should be equal to the string value passed while creating object of the student class.
 10. WAP to show how friend function works.
-11. Expxlain friend class with exampel.
-12. WAP to create classes ABC with data member feet and XYZ with data member inch. Add memebers of class ABC and XYZ using friend function.
+11. Explain friend class with example.
+12. WAP to create classes ABC with data member feet and XYZ with data member inch. Add members of class ABC and XYZ using friend function.
 13. WAP to add distances D1(feet, inch) and D2(feet, inch). Display result by returning values using friend function.
 14. WAP to show passing single argument as an object.
-15. WAP to show returnign object by normal way and also with nameless object.
-16. WAP to add two complex numbers using memer function add(). Pass single argument to function, return from function and display result.
-17. WAP to add distances D1(feet, inch) and D2(feet, inch). Dipslay result by returning values with nameless object.
+15. WAP to show returning object by normal way and also with nameless object.
+16. WAP to add two complex numbers using member function add(). Pass single argument to function, return from function and display result.
+17. WAP to add distances D1(feet, inch) and D2(feet, inch). Display result by returning values with nameless object.
 18. WAP to add distances D1(feet, inch) and D2(feet, inch). Display result inside function.
 19. WAP to swap the numbers by using reference variable.
 20. WAP to show static variable and static function.
@@ -119,7 +119,7 @@ Do not use any libraries or headers that is not standard. Example: conio.h , win
 10. WAP to overload >, <, == operator to compare two distances(feet, inch) using the concept of operator overloading using member function.
 11. WAP to overload >, <, == operator to compare two distances(feet, inch) using the concept of operator overloading using friend function.
 12. WAP to overload >, <, == operator to compare two amount using the concept of overloading.
-13. WAP to overload insertion and excertion operator.
+13. WAP to overload insertion and excretion operator.
 14. WAP to overload + and \* operators for complex numbers.
 
 ## [Inheritance](Inheritance/README.md)
@@ -197,8 +197,8 @@ Do not use any libraries or headers that is not standard. Example: conio.h , win
 3. WAP to show virtual destructor.
 4. WAP to show dynamic cast operator.
 5. WAP to show type id operator.
-6. A bookshop in Kathmandu valley sells books and DVD. Two classes Book and DVD are inherited from the astract base class Media. The Media class has common data members such as title and publication. The class Book has data members such as number_of_pages and that of DVD has data member such as duration. Each class members has member functions such as read data() and showdata(). WAP for modeling the class hierarchy for book shop and process objects of these classes using pointers to the base class.
-7. Design a class that represents paper. Create class book, nespaper, copy derived from class paper. Add necessary member function to make your program meaningful and also show constructor and virtual destructor. Create object Dynamically using pointer to the base class.
+6. A bookshop in Kathmandu valley sells books and DVD. Two classes `Book` and `DVD` are inherited from the abstract base class `Media`. The Media class has common data members such as `title` and `publication`. The class Book has data members such as `number_of_pages` and that of DVD has data member such as `duration`. Each class members has member functions such as `readData()` and `showData()`. WAP for modeling the class hierarchy for book shop and process objects of these classes using pointers to the base class.
+7. Design a class that represents paper. Create class book, newspaper, copy derived from class paper. Add necessary member function to make your program meaningful and also show constructor and virtual destructor. Create object Dynamically using pointer to the base class.
 8. Demonstrate runtime polymorphism using base class pointer and virtual function.
 
 ## [File Handling](FileHandling/README.md)
@@ -208,7 +208,7 @@ Do not use any libraries or headers that is not standard. Example: conio.h , win
 3. WAP to user r/w file using fstream.
 4. WAP using fin and fout.
 5. WAP to show use of manipulators.
-6. WAP to store book database in a file. Design a book class with members ISBN number, name of authro, title, price. The Program should able to store book object to a file, find a book in the database and display according to ISBN number. Also display all records.
+6. WAP to store book database in a file. Design a book class with members ISBN number, name of author, title, price. The Program should able to store book object to a file, find a book in the database and display according to ISBN number. Also display all records.
    - getInput()
    - display()
    - add_record
@@ -220,7 +220,7 @@ Do not use any libraries or headers that is not standard. Example: conio.h , win
 ### Function Template
 
 1. WAP to show more than one template mechanism.
-2. WAP to show function template overloading with functoin.
+2. WAP to show function template overloading with function.
 3. WAP to show overloading template with template and normal function.
 
 ### Class Template
@@ -240,9 +240,9 @@ Do not use any libraries or headers that is not standard. Example: conio.h , win
 3. WAP to show multiple catch statements.
 4. WAP to show catching all exceptions.
 5. WAP to show specifying exceptions.
-6. WAP to show rethrowing exception.
+6. WAP to show re-throwing exception.
 7. WAP to show try catch throw in user define classes type.
 8. WAP to compute square root of a number. THe input value must be tested for validity. If it is negative an exception must be raised.
-9. WAP to read name, roll number and marks that catches multiple exception using exception class if roll number is negatve and marks greater than full marks.
-10. WAP to show how do you throw only specified excepton from a function.
+9. WAP to read name, roll number and marks that catches multiple exception using exception class if roll number is negative and marks greater than full marks.
+10. WAP to show how do you throw only specified exception from a function.
 11. WAP to throw multiple exception. Using exception class and each exception is handled by separate handler.
