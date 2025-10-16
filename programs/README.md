@@ -122,6 +122,7 @@ Do not use any libraries or headers that is not standard. Example: conio.h , win
 13. WAP to overload insertion and excretion operator.
 14. WAP to overload + and \* operators for complex numbers.
 
+
 ## [Inheritance](Inheritance/README.md)
 
 ### Single Inheritance:
@@ -197,8 +198,8 @@ Do not use any libraries or headers that is not standard. Example: conio.h , win
 3. WAP to show virtual destructor.
 4. WAP to show dynamic cast operator.
 5. WAP to show type id operator.
-6. A bookshop in Kathmandu valley sells books and DVD. Two classes `Book` and `DVD` are inherited from the abstract base class `Media`. The Media class has common data members such as `title` and `publication`. The class Book has data members such as `number_of_pages` and that of DVD has data member such as `duration`. Each class members has member functions such as `readData()` and `showData()`. WAP for modeling the class hierarchy for book shop and process objects of these classes using pointers to the base class.
-7. Design a class that represents paper. Create class book, newspaper, copy derived from class paper. Add necessary member function to make your program meaningful and also show constructor and virtual destructor. Create object Dynamically using pointer to the base class.
+6. A bookshop in Kathmandu valley sells books and DVD. Two classes Book and DVD are inherited from the astract base class Media. The Media class has common data members such as title and publication. The class Book has data members such as number_of_pages and that of DVD has data member such as duration. Each class members has member functions such as read data() and showdata(). WAP for modeling the class hierarchy for book shop and process objects of these classes using pointers to the base class.
+7. Design a class that represents paper. Create class book, nespaper, copy derived from class paper. Add necessary member function to make your program meaningful and also show constructor and virtual destructor. Create object Dynamically using pointer to the base class.
 8. Demonstrate runtime polymorphism using base class pointer and virtual function.
 
 ## [File Handling](FileHandling/README.md)
