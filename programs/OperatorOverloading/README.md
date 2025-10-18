@@ -10,5 +10,5 @@
 - [x] [q10](q10.cpp): WAP to overload >, <, == operator to compare two distances(feet, inch) using the concept of operator overloading using member function.
 - [x] [q11](q11.cpp): WAP to overload >, <, == operator to compare two distances(feet, inch) using the concept of operator overloading using friend function.
 - [x] [q12](q12.cpp): WAP to overload >, <, == operator to compare two amount using the concept of overloading.
-- [x] [q13](q13.cpp): WAP to overload insertion and excertion operator.
+- [x] [q13](q13.cpp): WAP to overload insertion and excretion operator.
 - [x] [q14](q14.cpp): WAP to overload + and * operators for complex numbers.
